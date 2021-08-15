@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucianing)](https://github.com/anuraghazra/github-readme-stats)
 
+[GITHUB_LANG_SRC]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianing&layout=compact
+
 <!--
 **Lucianing/Lucianing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
